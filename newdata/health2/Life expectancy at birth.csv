@@ -1,0 +1,571 @@
+Country or Area,Year,Life expectancy at birth
+Afghanistan,2011.0,49.0
+Afghanistan,1990.0,42.0
+Afghanistan,1970.0,35.0
+Albania,2011.0,77.0
+Albania,1990.0,72.0
+Albania,1970.0,67.0
+Algeria,2011.0,73.0
+Algeria,1990.0,67.0
+Algeria,1970.0,53.0
+Angola,2011.0,51.0
+Angola,1990.0,41.0
+Angola,1970.0,37.0
+Argentina,2011.0,76.0
+Argentina,1990.0,72.0
+Argentina,1970.0,66.0
+Armenia,2011.0,74.0
+Armenia,1990.0,68.0
+Armenia,1970.0,70.0
+Australia,2011.0,82.0
+Australia,1990.0,77.0
+Australia,1970.0,71.0
+Austria,2011.0,81.0
+Austria,1990.0,75.0
+Austria,1970.0,70.0
+Azerbaijan,2011.0,71.0
+Azerbaijan,1990.0,65.0
+Azerbaijan,1970.0,65.0
+Bahamas,2011.0,76.0
+Bahamas,1990.0,69.0
+Bahamas,1970.0,66.0
+Bahrain,2011.0,75.0
+Bahrain,1990.0,72.0
+Bahrain,1970.0,64.0
+Bangladesh,2011.0,69.0
+Bangladesh,1990.0,59.0
+Bangladesh,1970.0,42.0
+Barbados,2011.0,77.0
+Barbados,1990.0,75.0
+Barbados,1970.0,69.0
+Belarus,2011.0,70.0
+Belarus,1990.0,71.0
+Belarus,1970.0,71.0
+Belgium,2011.0,80.0
+Belgium,1990.0,76.0
+Belgium,1970.0,71.0
+Belize,2011.0,76.0
+Belize,1990.0,72.0
+Belize,1970.0,66.0
+Benin,2011.0,56.0
+Benin,1990.0,49.0
+Benin,1970.0,40.0
+Bhutan,2011.0,67.0
+Bhutan,1990.0,53.0
+Bhutan,1970.0,41.0
+Bolivia (Plurinational State of),2011.0,67.0
+Bolivia (Plurinational State of),1990.0,59.0
+Bolivia (Plurinational State of),1970.0,46.0
+Bosnia and Herzegovina,2011.0,76.0
+Bosnia and Herzegovina,1990.0,67.0
+Bosnia and Herzegovina,1970.0,66.0
+Botswana,2011.0,53.0
+Botswana,1990.0,64.0
+Botswana,1970.0,55.0
+Brazil,2011.0,73.0
+Brazil,1990.0,66.0
+Brazil,1970.0,59.0
+Brunei Darussalam,2011.0,78.0
+Brunei Darussalam,1990.0,73.0
+Brunei Darussalam,1970.0,67.0
+Bulgaria,2011.0,73.0
+Bulgaria,1990.0,71.0
+Bulgaria,1970.0,71.0
+Burkina Faso,2011.0,55.0
+Burkina Faso,1990.0,49.0
+Burkina Faso,1970.0,41.0
+Burundi,2011.0,50.0
+Burundi,1990.0,46.0
+Burundi,1970.0,44.0
+Cambodia,2011.0,63.0
+Cambodia,1990.0,56.0
+Cambodia,1970.0,44.0
+Cameroon,2011.0,52.0
+Cameroon,1990.0,53.0
+Cameroon,1970.0,46.0
+Canada,2011.0,81.0
+Canada,1990.0,77.0
+Canada,1970.0,73.0
+Cape Verde,2011.0,74.0
+Cape Verde,1990.0,65.0
+Cape Verde,1970.0,53.0
+CEE/CIS,2011.0,70.0
+CEE/CIS,1990.0,68.0
+CEE/CIS,1970.0,66.0
+Central African Republic,2011.0,48.0
+Central African Republic,1990.0,49.0
+Central African Republic,1970.0,42.0
+Chad,2011.0,50.0
+Chad,1990.0,51.0
+Chad,1970.0,44.0
+Chile,2011.0,79.0
+Chile,1990.0,74.0
+Chile,1970.0,62.0
+China,2011.0,73.0
+China,1990.0,69.0
+China,1970.0,63.0
+Colombia,2011.0,74.0
+Colombia,1990.0,68.0
+Colombia,1970.0,61.0
+Comoros,2011.0,61.0
+Comoros,1990.0,56.0
+Comoros,1970.0,48.0
+Congo,2011.0,57.0
+Congo,1990.0,56.0
+Congo,1970.0,53.0
+Costa Rica,2011.0,79.0
+Costa Rica,1990.0,76.0
+Costa Rica,1970.0,67.0
+Côte d'Ivoire,2011.0,55.0
+Côte d'Ivoire,1990.0,53.0
+Côte d'Ivoire,1970.0,44.0
+Croatia,2011.0,77.0
+Croatia,1990.0,72.0
+Croatia,1970.0,69.0
+Cuba,2011.0,79.0
+Cuba,1990.0,74.0
+Cuba,1970.0,70.0
+Cyprus,2011.0,80.0
+Cyprus,1990.0,77.0
+Cyprus,1970.0,73.0
+Czech Republic,2011.0,78.0
+Czech Republic,1990.0,72.0
+Czech Republic,1970.0,70.0
+Democratic People's Republic of Korea,2011.0,69.0
+Democratic People's Republic of Korea,1990.0,71.0
+Democratic People's Republic of Korea,1970.0,62.0
+Democratic Republic of the Congo,2011.0,48.0
+Democratic Republic of the Congo,1990.0,47.0
+Democratic Republic of the Congo,1970.0,44.0
+Denmark,2011.0,79.0
+Denmark,1990.0,75.0
+Denmark,1970.0,73.0
+Djibouti,2011.0,58.0
+Djibouti,1990.0,51.0
+Djibouti,1970.0,43.0
+Dominican Republic,2011.0,73.0
+Dominican Republic,1990.0,68.0
+Dominican Republic,1970.0,58.0
+East Asia and Pacific,2011.0,73.0
+East Asia and Pacific,1990.0,68.0
+East Asia and Pacific,1970.0,61.0
+Eastern and Southern Africa,2011.0,56.0
+Eastern and Southern Africa,1990.0,51.0
+Eastern and Southern Africa,1970.0,47.0
+Ecuador,2011.0,76.0
+Ecuador,1990.0,69.0
+Ecuador,1970.0,58.0
+Egypt,2011.0,73.0
+Egypt,1990.0,62.0
+Egypt,1970.0,50.0
+El Salvador,2011.0,72.0
+El Salvador,1990.0,66.0
+El Salvador,1970.0,57.0
+Equatorial Guinea,2011.0,51.0
+Equatorial Guinea,1990.0,47.0
+Equatorial Guinea,1970.0,40.0
+Eritrea,2011.0,62.0
+Eritrea,1990.0,48.0
+Eritrea,1970.0,43.0
+Estonia,2011.0,75.0
+Estonia,1990.0,69.0
+Estonia,1970.0,71.0
+Ethiopia,2011.0,59.0
+Ethiopia,1990.0,47.0
+Ethiopia,1970.0,43.0
+Fiji,2011.0,69.0
+Fiji,1990.0,66.0
+Fiji,1970.0,60.0
+Finland,2011.0,80.0
+Finland,1990.0,75.0
+Finland,1970.0,70.0
+France,2011.0,82.0
+France,1990.0,77.0
+France,1970.0,72.0
+Gabon,2011.0,63.0
+Gabon,1990.0,61.0
+Gabon,1970.0,47.0
+Gambia,2011.0,58.0
+Gambia,1990.0,53.0
+Gambia,1970.0,38.0
+Georgia,2011.0,74.0
+Georgia,1990.0,71.0
+Georgia,1970.0,67.0
+Germany,2011.0,80.0
+Germany,1990.0,75.0
+Germany,1970.0,71.0
+Ghana,2011.0,64.0
+Ghana,1990.0,57.0
+Ghana,1970.0,49.0
+Greece,2011.0,80.0
+Greece,1990.0,77.0
+Greece,1970.0,72.0
+Grenada,2011.0,76.0
+Grenada,1990.0,69.0
+Grenada,1970.0,64.0
+Guatemala,2011.0,71.0
+Guatemala,1990.0,62.0
+Guatemala,1970.0,52.0
+Guinea,2011.0,54.0
+Guinea,1990.0,44.0
+Guinea,1970.0,34.0
+Guinea-Bissau,2011.0,48.0
+Guinea-Bissau,1990.0,43.0
+Guinea-Bissau,1970.0,37.0
+Guyana,2011.0,70.0
+Guyana,1990.0,61.0
+Guyana,1970.0,56.0
+Haiti,2011.0,62.0
+Haiti,1990.0,55.0
+Haiti,1970.0,47.0
+Honduras,2011.0,73.0
+Honduras,1990.0,66.0
+Honduras,1970.0,52.0
+Hungary,2011.0,74.0
+Hungary,1990.0,69.0
+Hungary,1970.0,69.0
+Iceland,2011.0,82.0
+Iceland,1990.0,78.0
+Iceland,1970.0,74.0
+India,2011.0,65.0
+India,1990.0,58.0
+India,1970.0,49.0
+Indonesia,2011.0,69.0
+Indonesia,1990.0,62.0
+Indonesia,1970.0,52.0
+Iran (Islamic Republic of),2011.0,73.0
+Iran (Islamic Republic of),1990.0,62.0
+Iran (Islamic Republic of),1970.0,51.0
+Iraq,2011.0,69.0
+Iraq,1990.0,67.0
+Iraq,1970.0,58.0
+Ireland,2011.0,81.0
+Ireland,1990.0,75.0
+Ireland,1970.0,71.0
+Israel,2011.0,82.0
+Israel,1990.0,76.0
+Israel,1970.0,72.0
+Italy,2011.0,82.0
+Italy,1990.0,77.0
+Italy,1970.0,71.0
+Jamaica,2011.0,73.0
+Jamaica,1990.0,71.0
+Jamaica,1970.0,68.0
+Japan,2011.0,83.0
+Japan,1990.0,79.0
+Japan,1970.0,72.0
+Jordan,2011.0,73.0
+Jordan,1990.0,70.0
+Jordan,1970.0,61.0
+Kazakhstan,2011.0,67.0
+Kazakhstan,1990.0,67.0
+Kazakhstan,1970.0,62.0
+Kenya,2011.0,57.0
+Kenya,1990.0,59.0
+Kenya,1970.0,52.0
+Kuwait,2011.0,75.0
+Kuwait,1990.0,72.0
+Kuwait,1970.0,67.0
+Kyrgyzstan,2011.0,68.0
+Kyrgyzstan,1990.0,66.0
+Kyrgyzstan,1970.0,60.0
+Lao People's Democratic Republic,2011.0,67.0
+Lao People's Democratic Republic,1990.0,54.0
+Lao People's Democratic Republic,1970.0,46.0
+Latin America and Caribbean,2011.0,74.0
+Latin America and Caribbean,1990.0,68.0
+Latin America and Caribbean,1970.0,60.0
+Latvia,2011.0,73.0
+Latvia,1990.0,69.0
+Latvia,1970.0,70.0
+Least Developed Countries/Territories,2011.0,59.0
+Least Developed Countries/Territories,1990.0,51.0
+Least Developed Countries/Territories,1970.0,43.0
+Lebanon,2011.0,73.0
+Lebanon,1990.0,69.0
+Lebanon,1970.0,65.0
+Lesotho,2011.0,48.0
+Lesotho,1990.0,59.0
+Lesotho,1970.0,49.0
+Liberia,2011.0,57.0
+Liberia,1990.0,42.0
+Liberia,1970.0,41.0
+Libya,2011.0,75.0
+Libya,1990.0,68.0
+Libya,1970.0,52.0
+Lithuania,2011.0,72.0
+Lithuania,1990.0,71.0
+Lithuania,1970.0,71.0
+Luxembourg,2011.0,80.0
+Luxembourg,1990.0,75.0
+Luxembourg,1970.0,70.0
+Madagascar,2011.0,67.0
+Madagascar,1990.0,51.0
+Madagascar,1970.0,44.0
+Malawi,2011.0,54.0
+Malawi,1990.0,47.0
+Malawi,1970.0,41.0
+Malaysia,2011.0,74.0
+Malaysia,1990.0,70.0
+Malaysia,1970.0,64.0
+Maldives,2011.0,77.0
+Maldives,1990.0,61.0
+Maldives,1970.0,44.0
+Mali,2011.0,51.0
+Mali,1990.0,44.0
+Mali,1970.0,34.0
+Malta,2011.0,80.0
+Malta,1990.0,75.0
+Malta,1970.0,70.0
+Mauritania,2011.0,59.0
+Mauritania,1990.0,56.0
+Mauritania,1970.0,47.0
+Mauritius,2011.0,73.0
+Mauritius,1990.0,69.0
+Mauritius,1970.0,63.0
+Mexico,2011.0,77.0
+Mexico,1990.0,71.0
+Mexico,1970.0,61.0
+Micronesia (Federated States of),2011.0,69.0
+Micronesia (Federated States of),1990.0,66.0
+Micronesia (Federated States of),1970.0,62.0
+Middle East and North Africa,2011.0,71.0
+Middle East and North Africa,1990.0,63.0
+Middle East and North Africa,1970.0,52.0
+Mongolia,2011.0,68.0
+Mongolia,1990.0,61.0
+Mongolia,1970.0,56.0
+Montenegro,2011.0,75.0
+Montenegro,1990.0,76.0
+Montenegro,1970.0,69.0
+Morocco,2011.0,72.0
+Morocco,1990.0,64.0
+Morocco,1970.0,52.0
+Mozambique,2011.0,50.0
+Mozambique,1990.0,43.0
+Mozambique,1970.0,39.0
+Myanmar,2011.0,65.0
+Myanmar,1990.0,57.0
+Myanmar,1970.0,50.0
+Namibia,2011.0,62.0
+Namibia,1990.0,61.0
+Namibia,1970.0,53.0
+Nepal,2011.0,69.0
+Nepal,1990.0,54.0
+Nepal,1970.0,43.0
+Netherlands,2011.0,81.0
+Netherlands,1990.0,77.0
+Netherlands,1970.0,74.0
+New Zealand,2011.0,81.0
+New Zealand,1990.0,75.0
+New Zealand,1970.0,71.0
+Nicaragua,2011.0,74.0
+Nicaragua,1990.0,64.0
+Nicaragua,1970.0,54.0
+Niger,2011.0,55.0
+Niger,1990.0,41.0
+Niger,1970.0,38.0
+Nigeria,2011.0,52.0
+Nigeria,1990.0,46.0
+Nigeria,1970.0,42.0
+Norway,2011.0,81.0
+Norway,1990.0,77.0
+Norway,1970.0,74.0
+Oman,2011.0,73.0
+Oman,1990.0,71.0
+Oman,1970.0,51.0
+Pakistan,2011.0,65.0
+Pakistan,1990.0,61.0
+Pakistan,1970.0,53.0
+Panama,2011.0,76.0
+Panama,1990.0,72.0
+Panama,1970.0,65.0
+Papua New Guinea,2011.0,63.0
+Papua New Guinea,1990.0,56.0
+Papua New Guinea,1970.0,46.0
+Paraguay,2011.0,72.0
+Paraguay,1990.0,68.0
+Paraguay,1970.0,65.0
+Peru,2011.0,74.0
+Peru,1990.0,66.0
+Peru,1970.0,53.0
+Philippines,2011.0,69.0
+Philippines,1990.0,65.0
+Philippines,1970.0,61.0
+Poland,2011.0,76.0
+Poland,1990.0,71.0
+Poland,1970.0,70.0
+Portugal,2011.0,79.0
+Portugal,1990.0,74.0
+Portugal,1970.0,67.0
+Qatar,2011.0,78.0
+Qatar,1990.0,74.0
+Qatar,1970.0,66.0
+Republic of Korea,2011.0,81.0
+Republic of Korea,1990.0,72.0
+Republic of Korea,1970.0,61.0
+Republic of Moldova,2011.0,69.0
+Republic of Moldova,1990.0,68.0
+Republic of Moldova,1970.0,65.0
+Romania,2011.0,74.0
+Romania,1990.0,69.0
+Romania,1970.0,68.0
+Russian Federation,2011.0,69.0
+Russian Federation,1990.0,68.0
+Russian Federation,1970.0,69.0
+Rwanda,2011.0,55.0
+Rwanda,1990.0,33.0
+Rwanda,1970.0,44.0
+Saint Lucia,2011.0,75.0
+Saint Lucia,1990.0,71.0
+Saint Lucia,1970.0,64.0
+Saint Vincent and the Grenadines,2011.0,72.0
+Saint Vincent and the Grenadines,1990.0,69.0
+Saint Vincent and the Grenadines,1970.0,61.0
+Samoa,2011.0,72.0
+Samoa,1990.0,65.0
+Samoa,1970.0,55.0
+Sao Tome and Principe,2011.0,65.0
+Sao Tome and Principe,1990.0,61.0
+Sao Tome and Principe,1970.0,55.0
+Saudi Arabia,2011.0,74.0
+Saudi Arabia,1990.0,69.0
+Saudi Arabia,1970.0,52.0
+Senegal,2011.0,59.0
+Senegal,1990.0,53.0
+Senegal,1970.0,41.0
+Serbia,2011.0,75.0
+Serbia,1990.0,72.0
+Serbia,1970.0,68.0
+Sierra Leone,2011.0,48.0
+Sierra Leone,1990.0,39.0
+Sierra Leone,1970.0,35.0
+Singapore,2011.0,81.0
+Singapore,1990.0,76.0
+Singapore,1970.0,68.0
+Slovakia,2011.0,75.0
+Slovakia,1990.0,71.0
+Slovakia,1970.0,70.0
+Slovenia,2011.0,79.0
+Slovenia,1990.0,73.0
+Slovenia,1970.0,69.0
+Solomon Islands,2011.0,68.0
+Solomon Islands,1990.0,57.0
+Solomon Islands,1970.0,54.0
+Somalia,2011.0,51.0
+Somalia,1990.0,45.0
+Somalia,1970.0,40.0
+South Africa,2011.0,53.0
+South Africa,1990.0,62.0
+South Africa,1970.0,53.0
+South Asia,2011.0,66.0
+South Asia,1990.0,59.0
+South Asia,1970.0,49.0
+Spain,2011.0,81.0
+Spain,1990.0,77.0
+Spain,1970.0,72.0
+Sri Lanka,2011.0,75.0
+Sri Lanka,1990.0,70.0
+Sri Lanka,1970.0,63.0
+State of Palestine,2011.0,73.0
+State of Palestine,1990.0,68.0
+State of Palestine,1970.0,56.0
+Sub-Saharan Africa,2011.0,55.0
+Sub-Saharan Africa,1990.0,50.0
+Sub-Saharan Africa,1970.0,44.0
+Sudan (pre-cession),2011.0,61.0
+Sudan (pre-cession),1990.0,53.0
+Sudan (pre-cession),1970.0,45.0
+Suriname,2011.0,71.0
+Suriname,1990.0,67.0
+Suriname,1970.0,63.0
+Swaziland,2011.0,49.0
+Swaziland,1990.0,59.0
+Swaziland,1970.0,48.0
+Sweden,2011.0,81.0
+Sweden,1990.0,78.0
+Sweden,1970.0,74.0
+Switzerland,2011.0,82.0
+Switzerland,1990.0,78.0
+Switzerland,1970.0,73.0
+Syrian Arab Republic,2011.0,76.0
+Syrian Arab Republic,1990.0,71.0
+Syrian Arab Republic,1970.0,60.0
+Tajikistan,2011.0,68.0
+Tajikistan,1990.0,63.0
+Tajikistan,1970.0,60.0
+Thailand,2011.0,74.0
+Thailand,1990.0,73.0
+Thailand,1970.0,60.0
+The former Yugoslav Republic of Macedonia,2011.0,75.0
+The former Yugoslav Republic of Macedonia,1990.0,71.0
+The former Yugoslav Republic of Macedonia,1970.0,66.0
+Timor-Leste,2011.0,62.0
+Timor-Leste,1990.0,46.0
+Timor-Leste,1970.0,40.0
+Togo,2011.0,57.0
+Togo,1990.0,53.0
+Togo,1970.0,45.0
+Tonga,2011.0,72.0
+Tonga,1990.0,70.0
+Tonga,1970.0,65.0
+Trinidad and Tobago,2011.0,70.0
+Trinidad and Tobago,1990.0,69.0
+Trinidad and Tobago,1970.0,65.0
+Tunisia,2011.0,75.0
+Tunisia,1990.0,69.0
+Tunisia,1970.0,54.0
+Turkey,2011.0,74.0
+Turkey,1990.0,63.0
+Turkey,1970.0,50.0
+Turkmenistan,2011.0,65.0
+Turkmenistan,1990.0,63.0
+Turkmenistan,1970.0,58.0
+Uganda,2011.0,54.0
+Uganda,1990.0,47.0
+Uganda,1970.0,50.0
+Ukraine,2011.0,68.0
+Ukraine,1990.0,70.0
+Ukraine,1970.0,71.0
+United Arab Emirates,2011.0,77.0
+United Arab Emirates,1990.0,72.0
+United Arab Emirates,1970.0,62.0
+United Kingdom,2011.0,80.0
+United Kingdom,1990.0,76.0
+United Kingdom,1970.0,72.0
+United Republic of Tanzania,2011.0,58.0
+United Republic of Tanzania,1990.0,51.0
+United Republic of Tanzania,1970.0,47.0
+United States,2011.0,79.0
+United States,1990.0,75.0
+United States,1970.0,71.0
+Uruguay,2011.0,77.0
+Uruguay,1990.0,73.0
+Uruguay,1970.0,69.0
+Uzbekistan,2011.0,68.0
+Uzbekistan,1990.0,67.0
+Uzbekistan,1970.0,63.0
+Vanuatu,2011.0,71.0
+Vanuatu,1990.0,63.0
+Vanuatu,1970.0,52.0
+Venezuela (Bolivarian Republic of),2011.0,74.0
+Venezuela (Bolivarian Republic of),1990.0,71.0
+Venezuela (Bolivarian Republic of),1970.0,64.0
+Viet Nam,2011.0,75.0
+Viet Nam,1990.0,66.0
+Viet Nam,1970.0,48.0
+Western and Central Africa,2011.0,53.0
+Western and Central Africa,1990.0,48.0
+Western and Central Africa,1970.0,42.0
+World,2011.0,69.0
+World,1990.0,65.0
+World,1970.0,59.0
+Yemen,2011.0,65.0
+Yemen,1990.0,56.0
+Yemen,1970.0,40.0
+Zambia,2011.0,49.0
+Zambia,1990.0,47.0
+Zambia,1970.0,49.0
+Zimbabwe,2011.0,51.0
+Zimbabwe,1990.0,61.0
+Zimbabwe,1970.0,55.0
