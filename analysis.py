@@ -6,7 +6,7 @@ regions = set(fdf['Region Name'])
 for x in regions:
     print x
     lis =  ['Proportion of 1 year-old children immunised against DPT1','Proportion of 1 year-old children immunised against measles','Proportion of 1 year-old children fully immunised against DPT','Proportion of 1 year-old children fully immunised against Haemophilus influenzae type B','Proportion of 1 year-old children immunised against TB (BCG)','Proportion of 1 year-old children fully immunised against Hepatitis B','Proportion of 1 year-old children fully immunised against polio (OPV)']
-    df = fdf[fdf['Region Name'] == x]
+    df = fdf[fdf['Region Name'] == x].copy()
     Y = df['Under-five mortality rate (U5MR)_Deaths per 1000 live births_2011.0_Total'].values
     X = df[['Proportion of 1 year-old children immunised against DPT1','Proportion of 1 year-old children immunised against measles','Proportion of 1 year-old children fully immunised against DPT','Proportion of 1 year-old children fully immunised against Haemophilus influenzae type B','Proportion of 1 year-old children immunised against TB (BCG)','Proportion of 1 year-old children fully immunised against Hepatitis B','Proportion of 1 year-old children fully immunised against polio (OPV)']].values
     clf = dt(random_state = 0)
