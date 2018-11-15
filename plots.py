@@ -17,11 +17,12 @@ for line in f.readlines():
     a = []
     for r in rset:
         df = mdf[mdf['Region Name'] == r].copy()
-        a.append(plt.scatter(df[x].values,
-        df[y].values, 
+        a.append(plt.scatter(df[x.strip()].values,
+        df[y.strip()].values, 
         c = df['Region Name'].apply(lambda x: colors[rmap[x]]),
         label = r))
     plt.legend(a,rmap.keys())
     plt.xlabel(labelx)
     plt.ylabel(labely)
     plt.savefig(x+'vs'+y+'.png')
+    plt.show()
